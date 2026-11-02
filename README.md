@@ -2,7 +2,7 @@
 
 **petra-ce** is an open-source, neuro-symbolic requirements formalizer. It bridges the gap between natural language engineering standards and automated formal verification.
 
-This tool functions as an **order-independent 2-pass compiler** that ingests technical requirement documents and interface specifications, compiling them into mathematically verifiable, parameterless Java 8 state machines. These artifacts are fully optimized for symbolic execution via the **Petra solver**.
+This tool functions as an **order-independent 2-pass compiler** that ingests technical requirement documents and interface specifications, compiling them into mathematically verifiable, parameterless Java 8 state machines. These artifacts are fully optimized for symbolic execution via the **Petra Verifier** (see [petra-examples](https://github.com/petracode-labs/petra-examples) repo).
 
 ---
 
